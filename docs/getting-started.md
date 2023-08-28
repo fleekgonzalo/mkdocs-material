@@ -29,7 +29,7 @@ For lower end setups you might want to consider turning this off. In my opinion 
 
 ### Audio
 
-### Volume 
+#### Volume 
 Adjust to preference. Volume is not mandatory but pretty important , specially when learning the game, so don't neglect it.
 
 #### Music
