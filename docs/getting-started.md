@@ -22,5 +22,34 @@ Enables or disables v-sync. You probably want this off.
 #### Frame limit
 You can cap your FPS with this option. I personally use uncapped (set to 2000)
 
+#### High resolution peripheral
+This option refers to
+
+### Audio
+
+### Volume 
+Adjust to preference. Volume is not mandatory but pretty important , specially when learning the game, so don't neglect it.
+
+#### Music
+Music only applies in the main menu, so adjust to your liking.
+
+### Controls
+
+#### Keybindings
+Most players (including top players) use default keybindings. You can switch them to your liking, but it's recommended that you leave them as default.
+The game has very minimalistic controls but you can use and combine them to achieve a wide variety of moves ingame.
+The controls at the bottom refer to the replay controls, you can switch those to whatever is more comfortable to you , it won't affect your gameplay. Just don't override any important binds!
+
+#### Left handed
+Switches your hand between right / left. 
+Impact is only visual, so whatever you like best.
+
+#### Invert y axis
+Don't be a weirdo.
+
+#### Look speed
+This is your sensitivty. It's purely preference, but at higher levels you will need to do quick 180 turns and overall a lot of mouse movements, so unless you have a lot of energy in your arm, consider using a medium to high sens.
+
+
   [^1]:
     Difficulty for this game is flexible, as in, enemies spawn only as fast as you kill other enemies. So if you are slow, then the game will go slow. If you are fast, the game will go fast.
