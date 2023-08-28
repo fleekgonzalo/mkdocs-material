@@ -3,10 +3,19 @@
 Hyperdemon can be a very daunting game to pickup. To be brutally honest, it's a game designed for tryhards only. 
 The goal of this site is to help you pickup most of the mechanics and basic routes / interactions the game has to offer,
 so you can quickly improve and get past the initial hours where nothing makes sense and the game feels impossible.
+<style>
+.video-container {
+    display: flex;
+    justify-content: center;
+}
 
-<video controls width="500">
+.video-container video {
+    max-width: 100%;
+    height: auto;
+}
+</style>
+<video controls>
     <source src="https://b.hyprd.mn/hd/v/393842984.mp4" type="video/mp4">
-    Your browser does not support the video tag.
 </video>
 
   [^1]:
