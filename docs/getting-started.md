@@ -1,17 +1,11 @@
 # Getting started
 
-Material for MkDocs is a powerful documentation framework on top of [MkDocs],
-a static site generator for project documentation.[^1] If you're familiar with 
-Python, you can install Material for MkDocs with [`pip`][pip], the Python
-package manager. If not, we recommend using [`docker`][docker].
+Hyperdemon can be a very daunting game to pickup. To be brutally honest, it's a game designed for tryhards only. 
+The goal of this site is to help you pickup most of the mechanics and basic routes / interactions the game has to offer,
+so you can quickly improve and get past the initial hours where nothing makes sense and the game feels impossible.
 
   [^1]:
-    In 2016, Material for MkDocs started out as a simple theme for MkDocs, but
-    over the course of several years, it's now much more than that – with the
-    many built-in plugins, settings, and countless customization abilities,
-    Material for MkDocs is now one of the simplest and most powerful frameworks
-    for creating documentation for your project.
-
+    Difficulty for this game is flexible, as in, enemies spawn only as fast as you kill other enemies. So if you are slow, then the game will go slow. If you are fast, the game will go fast.
   [MkDocs]: https://www.mkdocs.org
   [pip]: #with-pip
   [docker]: #with-docker
