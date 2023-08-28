@@ -5,9 +5,7 @@ Hyperdemon can be a very daunting game to pickup. To be brutally honest, it's a 
 The goal of this site is to help you pickup most of the mechanics and basic routes / interactions the game has to offer,
 so you can quickly improve and get past the initial hours where nothing makes sense and the game feels impossible.
 
-<video controls width="500" volume="0.25">
-    <source src="https://b.hyprd.mn/hd/v/393842984.mp4" type="video/mp4">
-</video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ScglDSi9KUs?si=_kOj-7_OmE5mldo2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Settings
 
