@@ -7,7 +7,7 @@ so you can quickly improve and get past the initial hours where nothing makes se
 https://hyprd.mn/clip/393842984
 
 <video controls width="500">
-    <source src="https://hyprd.mn/clip/393842984" type="video/mp4">
+    <source src="https://b.hyprd.mn/hd/v/393842984.mp4" type="video/mp4">
     Your browser does not support the video tag.
 </video>
 
