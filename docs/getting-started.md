@@ -23,7 +23,9 @@ Enables or disables v-sync. You probably want this off.
 You can cap your FPS with this option. I personally use uncapped (set to 2000)
 
 #### High resolution peripheral
-This option refers to
+On this game, you can see enemies that are directly behind you, they are rendered on your screen as red holograms.
+This option will determine wether those holograms are high resolution or not. If your PC can handle it, I'd leave it on.
+For lower end setups you might want to consider turning this off. In my opinion there isn't a noticeable difference between the two options.
 
 ### Audio
 
