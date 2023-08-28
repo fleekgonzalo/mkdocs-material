@@ -1,16 +1,11 @@
-<style>
-.video-container {
-    display: flex;
-    justify-content: center;
-}
-</style>
+
 # Getting started
 
 Hyperdemon can be a very daunting game to pickup. To be brutally honest, it's a game designed for tryhards only. 
 The goal of this site is to help you pickup most of the mechanics and basic routes / interactions the game has to offer,
 so you can quickly improve and get past the initial hours where nothing makes sense and the game feels impossible.
 
-<video controls width="500">
+<video controls width="500" volume="0.25">
     <source src="https://b.hyprd.mn/hd/v/393842984.mp4" type="video/mp4">
 </video>
 
