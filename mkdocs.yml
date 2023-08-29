@@ -165,10 +165,8 @@ nav:
     - Enemies: creating-your-site.md
     - Items: publishing-your-site.md
     - Scoring: browser-support.md
-     <!--- Philosophy: philosophy.md -->
-     <!--- Alternatives: alternatives.md -->
-     <!--- License: license.md -->
-    - Movement:
+
+  - Movement:
       - changelog/index.md
       - How to upgrade: upgrade.md
     - Contributing:
