@@ -19,18 +19,18 @@
 # IN THE SOFTWARE.
 
 # Project information
-site_name: Material for MkDocs
+site_name: Hyper Demon Docs
 site_url: https://squidfunk.github.io/mkdocs-material/
-site_author: Martin Donath
+site_author: flesh
 site_description: >-
-  Write your documentation about hyperdemon
+  A place to learn every aspect of the game, improve your knowledge and mechanics, discover saucy techs, routes and more.
 
 # Repository
-repo_name: squidfunk/mkdocs-material
-repo_url: https://github.com/squidfunk/mkdocs-material
+repo_name: fleekgonzalo/mkdocs-material
+repo_url: https://github.com/fleekgonzalo/mkdocs-material
 
 # Copyright
-copyright: Copyright &copy; 2016 - 2023 Martin Donath
+copyright: Copyright &copy; 2023 flesh
 
 # Configuration
 theme:
