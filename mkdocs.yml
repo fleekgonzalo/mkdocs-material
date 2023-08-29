@@ -84,15 +84,14 @@ theme:
 
 # Plugins
 plugins:
-  - blog
   - search:
       separator: '[\s\-,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
   - minify:
       minify_html: true
 
 # Hooks
-hooks:
-  - material/.overrides/hooks/translations.py
+#hooks:
+#  - material/.overrides/hooks/translations.py
 
 # Customization
 extra:
@@ -166,8 +165,6 @@ nav:
     - Enemies: publishing-your-site.md
     - Items: customization.md
     - Scoring: browser-support.md
-    - Slowmo: enterprise-support.md
-    - Practice: philosophy.md
     - Changelog:
       - changelog/index.md
       - How to upgrade: upgrade.md
@@ -229,5 +226,12 @@ nav:
     - Getting started:
       - Installation: insiders/getting-started.md
       - Changelog: insiders/changelog.md
-  - Alternatives:
+  - Adaptabiliy & Corrections:
     - blog/index.md
+    - 2022:
+      - blog/posts/blog-support-just-landed.md
+      - blog/posts/chinese-search-support.md
+    - 2021:
+      - blog/posts/the-past-present-and-future.md
+      - blog/posts/excluding-content-from-search.md
+      - blog/posts/search-better-faster-smaller.md
