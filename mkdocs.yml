@@ -166,59 +166,47 @@ nav:
     - Scoring: browser-support.md
     - Powerups: browser-support.md
   - Movement:
-    - setup/index.md
-    - Changing the colors: setup/changing-the-colors.md
-    - Changing the fonts: setup/changing-the-fonts.md
-    - Changing the language: setup/changing-the-language.md
-    - Changing the logo and icons: setup/changing-the-logo-and-icons.md
-    - Ensuring data privacy: setup/ensuring-data-privacy.md
-    - Setting up navigation: setup/setting-up-navigation.md
-    - Setting up site search: setup/setting-up-site-search.md
-    - Setting up site analytics: setup/setting-up-site-analytics.md
-    - Setting up social cards: setup/setting-up-social-cards.md
-    - Setting up a blog: setup/setting-up-a-blog.md
-    - Setting up tags: setup/setting-up-tags.md
-    - Setting up versioning: setup/setting-up-versioning.md
-    - Setting up the header: setup/setting-up-the-header.md
-    - Setting up the footer: setup/setting-up-the-footer.md
-    - Adding a git repository: setup/adding-a-git-repository.md
-    - Adding a comment system: setup/adding-a-comment-system.md
-    - Building an optimized site: setup/building-an-optimized-site.md
-    - Building for offline usage: setup/building-for-offline-usage.md
-    - Extensions:
-      - setup/extensions/index.md
-      - Python Markdown: setup/extensions/python-markdown.md
-      - Python Markdown Extensions: setup/extensions/python-markdown-extensions.md
-    - Dependencies:
-      - setup/dependencies/image-processing.md
+    - Intro: setup/index.md
+    - Walking: setup/changing-the-colors.md
+    - Jumping: setup/changing-the-fonts.md
+    - Stomping: setup/changing-the-language.md
+    - Dashing: setup/changing-the-logo-and-icons.md
+    - Sliding: setup/ensuring-data-privacy.md
+    - Faking: setup/setting-up-navigation.md
+    - Dodging: setup/setting-up-a-blog.md
+    - Air strafing: setup/setting-up-site-search.md
+    - Dagger jumping: setup/setting-up-site-analytics.md
+    - Gemdashing: setup/setting-up-social-cards.md
+    - Bomb jumping: setup/setting-up-versioning.md
   - Techs:
-    - Test Tech: reference/index.md
-    - Gemdash: reference/admonitions.md
-    - Annotations: reference/annotations.md
-    - Buttons: reference/buttons.md
-    - Code blocks: reference/code-blocks.md
-    - Content tabs: reference/content-tabs.md
-    - Data tables: reference/data-tables.md
-    - Diagrams: reference/diagrams.md
-    - Footnotes: reference/footnotes.md
-    - Formatting: reference/formatting.md
-    - Grids: reference/grids.md
-    - Icons, Emojis: reference/icons-emojis.md
-    - Images: reference/images.md
-    - Lists: reference/lists.md
-    - Math: reference/math.md
-    - Tooltips: reference/tooltips.md
+    - Intro: reference/index.md
+    - Basic Techs: 
+      - Collect: reference/annotations.md  
+      - Delayed Collect: reference/annotations.md
+      - Ricochet: reference/admonitions.md
+      - Gemtech: reference/admonitions.md
+      - Stomp: reference/annotations.md
+      - Pluck: reference/annotations.md
+      - Grab item: reference/annotations.md
+      - Homing: reference/code-blocks.md
+      - Railing a bomb: reference/code-blocks.md
+      - Gemdash: reference/content-tabs.md
+    - Advanced Techs:
+      - Shock Rifle: reference/code-blocks.md
+      - Future bomb: reference/code-blocks.md
+      - Bomb throw + ricochet: reference/code-blocks.md
+      - Bouncing bomb: reference/code-blocks.md
+      - Homing Snipe: reference/annotations.md
+      - Stormrail: reference/code-blocks.md
+      - Railstomp: reference/buttons.md
+      - Powerup delay: reference/data-tables.md
+      - Snake aggro: reference/code-blocks.md
+      - Tetris: reference/code-blocks.md
   - Routes:
-    - insiders/index.md
-    - Getting started:
-      - Installation: insiders/getting-started.md
-      - Changelog: insiders/changelog.md
+    - Early game: reference/code-blocks.md
+    - Post centi: reference/code-blocks.md
+    - Endgame: reference/code-blocks.md
   - Adaptabiliy & Corrections:
-    - blog/index.md
-    - 2022:
-      - blog/posts/blog-support-just-landed.md
-      - blog/posts/chinese-search-support.md
-    - 2021:
-      - blog/posts/the-past-present-and-future.md
-      - blog/posts/excluding-content-from-search.md
-      - blog/posts/search-better-faster-smaller.md
+    - We all do mistakes: blog/index.md
+    - Mindset: blog/index.md
+    - Correction: blog/index.md
