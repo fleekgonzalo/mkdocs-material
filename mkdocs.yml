@@ -160,15 +160,15 @@ markdown_extensions:
 nav:
   - Home: index.md
   - Getting started:
-    - Installation: getting-started.md
-    - Creating your site: creating-your-site.md
-    - Publishing your site: publishing-your-site.md
-    - Customization: customization.md
-    - Browser support: browser-support.md
-    - Philosophy: philosophy.md
-    - Alternatives: alternatives.md
-    - License: license.md
-    - Changelog:
+    - Settings: getting-started.md
+    - Player: customization.md
+    - Enemies: creating-your-site.md
+    - Items: publishing-your-site.md
+    - Scoring: browser-support.md
+     <!--- Philosophy: philosophy.md -->
+     <!--- Alternatives: alternatives.md -->
+     <!--- License: license.md -->
+    - Movement:
       - changelog/index.md
       - How to upgrade: upgrade.md
     - Contributing:
