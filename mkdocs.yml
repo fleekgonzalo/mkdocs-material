@@ -174,8 +174,8 @@ nav:
     - Sliding: setup/ensuring-data-privacy.md
     - Faking: setup/setting-up-navigation.md
     - Dodging: setup/setting-up-a-blog.md
-    - Air strafing: setup/setting-up-site-search.md
     - Dagger jumping: setup/setting-up-site-analytics.md
+    - Air strafing: setup/setting-up-site-search.md
     - Gemdashing: setup/setting-up-social-cards.md
     - Bomb jumping: setup/setting-up-versioning.md
   - Techs:
@@ -209,4 +209,4 @@ nav:
   - Adaptabiliy & Corrections:
     - We all do mistakes: blog/index.md
     - Mindset: blog/index.md
-    - Correction: blog/index.md
+    - Corrections: blog/index.md
