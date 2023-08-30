@@ -32,7 +32,7 @@
     linear-gradient(
       to bottom,
       var(--md-primary-fg-color),
-      hsla(280, 67%, 55%, 1) 99%,
+      white 99%,
       var(--md-default-bg-color) 99%
     );
 
@@ -43,8 +43,8 @@
       linear-gradient(
         to bottom,
         var(--md-primary-fg-color),
-        hsla(280, 67%, 55%, 1) 99%,
-        white 99%
+        white 99%,
+        var(--md-default-bg-color) 99%
       );
   }
 }
@@ -86,8 +86,8 @@
     // Hero image
     &__image {
       order: 1;
-      width: px2rem(760px);
-      transform: translateX(#{px2rem(20px)});
+      width: px2rem(60px);
+      transform: translateX(#{px2rem(5px)});
     }
   }
 
@@ -96,7 +96,7 @@
 
     // Hero image
     &__image {
-      transform: translateX(#{px2rem(20px)});
+      transform: translateX(#{px2rem(5px)});
     }
   }
 
