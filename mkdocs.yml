@@ -64,13 +64,13 @@ theme:
   palette:
     - scheme: default
       primary: black
-      accent: gray
+      accent: amber
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
     - scheme: slate
       primary: black
-      accent: gray
+      accent: amber
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
