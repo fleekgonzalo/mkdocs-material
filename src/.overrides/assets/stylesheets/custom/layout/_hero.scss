@@ -87,7 +87,6 @@
     &__image {
       order: 1;
       width: px2rem(760px);
-      max-width: 420px;
       transform: translateX(#{px2rem(80px)});
     }
   }
@@ -98,6 +97,7 @@
     // Hero image
     &__image {
       transform: translateX(#{px2rem(160px)});
+      max-width: 420px;
     }
   }
 
