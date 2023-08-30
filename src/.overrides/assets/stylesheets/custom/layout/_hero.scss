@@ -44,7 +44,7 @@
         to bottom,
         var(--md-primary-fg-color),
         hsla(280, 67%, 55%, 1) 99%,
-        var(--md-default-bg-color) 99%
+        white 99%
       );
   }
 }
@@ -86,8 +86,8 @@
     // Hero image
     &__image {
       order: 1;
-      width: 500;
-      transform: translateX(#{px2rem(80px)});
+      width: px2rem(760px);
+      transform: translateX(#{px2rem(20px)});
     }
   }
 
@@ -96,7 +96,7 @@
 
     // Hero image
     &__image {
-      transform: translateX(#{px2rem(160px)});
+      transform: translateX(#{px2rem(20px)});
     }
   }
 
